@@ -4,7 +4,7 @@ from os import path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'j!!mi%9b5$$r(f0#jh$w^8qgniojvg3z%^ay2&cdezu_-fyv(-'
+SECRET_KEY = 'YOUR_KEY_HERE'
 
 DEBUG = False
 
