@@ -1,5 +1,5 @@
 # Hive
-Streamlined ML Data Collection Platform Powered by the Dropbase API
+Streamlined ML Data Collection Platform Powered by the Dropbase API. Spotlighted on [Dropbase's Corporate Blog](https://www.dropbase.io/post/hack-the-north-spotlights-dropstats-crowd-data-hive-vacalert).
 
 # What It Does
 Hive is a streamlined Machine Learning data collection platform. It aims to allow users to build Machine Learning datasets collaboratively and easily, so they can focus on the important parts of their project instead of having to get bogged down in trying to gather data. 
